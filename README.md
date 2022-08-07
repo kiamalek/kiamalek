@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kiamalek
-- 👀 I’m interested in App-developing by swift and working as a web developer.
-- 🌱 I’m currently learning NodeJs for backend.
+- 👀 I’m interested in App-developing by either swift or flutter and working as a web developer.
+- 🌱 I’m currently learning MongoDB for backend.
 - 💞️ I’m looking to collaborate on Ecommercial management.
 - 📫 How to reach me ...
 
